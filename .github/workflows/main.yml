@@ -31,4 +31,4 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: de4dot-net35
-        path: de4dot-cex.zip
+        path: *.zip
