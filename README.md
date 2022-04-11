@@ -1,4 +1,4 @@
-## de4dot CEx (fork fork)
+## de4dot CEx (fork fork (forked))
 A de4dot fork with full support for vanilla ConfuserEx
 
 ## Features
